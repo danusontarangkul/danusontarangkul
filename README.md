@@ -33,13 +33,13 @@ Stripe · Clerk · Twilio · Sendgrid · Google
 ## 💼 Experience
 
 **Software Engineer — Twilio**  
-_[May 2022 – March 2024]_  
+May 2022 – March 2024
 
-**[Coding Learning Assistant] — [2U]**  
-_[June 2021 - August 2023]_  
+**Coding Learning Assistant — 2U**  
+June 2021 - August 2023 
 
-**[Software Engineer Intern] — [Tapply]**  
-_[November 2021 - February 2022]_  
+**Software Engineer Intern — Tapply**  
+November 2021 - February 2022
 
 ---
 
