@@ -1,16 +1,6 @@
 # Hi, I'm David 👋
 
-[Short 1–2 sentence personal summary. Who you are, what you work on, what you care about.]
-
----
-
-## 🚀 About Me
-
-- 💼 Role: [Job Title / Focus]
-- 🏢 Currently working at: [Company / Freelance / Student / etc.]
-- 🌱 Currently learning: [Technologies / Skills]
-- 🎯 Interests: [Optional]
-- 📍 Location: [Optional]
+Full-stack software engineer working primarily with TypeScript and modern web technologies. My background includes both startup and enterprise experience. I have done end-to-end SaaS development projects. I run a YouTube channel dedicated to helping developers improve their skills. Outside of coding, I enjoy reading, fitness, photography, and travel.
 
 ---
 
@@ -56,15 +46,14 @@ November 2021 - February 2022
 
 **Bachelor's degree, Finance — University of Florida**
 2010 - 2014
+
 ---
 
 ## 📌 Projects
 
-**[Project Name]** – [Short description of what it does]  
-Tech: [Tech Used]
+**[Nexus Auto]** – Mobile app to help car owners manage the maitenance of their cars
+[Repo](https://github.com/danusontarangkul/nexus-auto)
 
-**[Another Project]** – [Short description]  
-Tech: [Tech Used]
 
 ---
 
@@ -73,9 +62,8 @@ Tech: [Tech Used]
 - 🌐 Website: [davidanuson.com](davidanuson.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/anusontarangkul/](https://www.linkedin.com/in/anusontarangkul/)
 - 📧 Email: [anusontarangkul.d@gmail.com](anusontarangkul.d@gmail.com)
+- 🎥 YouTube: [https://www.youtube.com/@BecomingABetterDev](https://www.youtube.com/@BecomingABetterDev)
 
 ---
 
 ⭐️ *Thanks for visiting my profile!*
-
-Remove all the [] around the education and experience
