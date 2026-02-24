@@ -45,16 +45,16 @@ November 2021 - February 2022
 
 ## 🎓 Education
 
-**[Bachelor's degree, Computer Science] — [Western Governors University]**  
+**Bachelor's degree, Computer Science — Western Governors University**  
 2023 - 2024 
 
-**[Coding Bootcamp] — [University of California, Berkeley Extensions ]**  
+**Coding Bootcamp — University of California, Berkeley Extensions**  
 2020
 
-**[Masters in International Business] — [University of Florida]**
+**Masters in International Business — University of Florida**
 2013 - 2015
 
-**[Bachelor's degree, Finance] — [University of Florida]**
+**Bachelor's degree, Finance — University of Florida**
 2010 - 2014
 ---
 
