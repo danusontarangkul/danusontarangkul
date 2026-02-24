@@ -51,8 +51,9 @@ November 2021 - February 2022
 
 ## 📌 Projects
 
-**[Nexus Auto]** – Mobile app to help car owners manage the maitenance of their cars
-[Repo](https://github.com/danusontarangkul/nexus-auto)
+**[Nexus Auto]**
+Mobile app to help car owners manage the maitenance of their cars
+[GitHub Repo](https://github.com/danusontarangkul/nexus-auto)
 
 
 ---
