@@ -22,6 +22,9 @@ Stripe · Clerk · Twilio · Sendgrid · Google
 
 ## 💼 Experience
 
+**Freelancer — Sel fEmployed**  
+June 2024 - Present
+
 **Software Engineer — Twilio**  
 May 2022 – March 2024
 
