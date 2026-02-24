@@ -17,43 +17,45 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-[JavaScript] · [TypeScript] · [Python] · [etc.]
+TypeScript · JavaScript · SQL
 
 **Frameworks & Libraries:**  
-[React] · [Next.js] · [Node.js] · [etc.]
+React · Next.js · Node.js · GraphQL · Convex · React Native 
 
 **Tools & Platforms:**  
-[Git] · [Docker] · [AWS] · [Stripe] · [etc.]
+Vercel · Expo · AWS
+
+**Integrations:**  
+Stripe · Clerk · Twilio · Sendgrid · Google
 
 ---
 
 ## 💼 Experience
 
-**[Job Title] — [Company Name]**  
-_[Start Date – End Date]_  
+**[Software Engineer] — [Twilio]**  
+_[May 2022 – March 2024]_  
 
-- [Key responsibility or achievement]
-- [Impact / outcome / technologies used]
-- [Optional third bullet]
+**[Coding Learning Assistant] — [2U]**  
+_[June 2021 - August 2023]_  
 
----
-
-**[Previous Job Title] — [Company Name]**  
-_[Start Date – End Date]_  
-
-- [Key responsibility or achievement]
-- [Impact / outcome / technologies used]
+**[Software Engineer Intern] — [Tapply]**  
+_[November 2021 - February 2022]_  
 
 ---
 
 ## 🎓 Education
 
-**[Degree / Program] — [School Name]**  
-_[Start Year – End Year]_  
+**[Bachelor's degree, Computer Science] — [Western Governors University]**  
+2023 - 2024 
 
-- [Relevant coursework / focus / achievements]
-- [Optional honors / specialization]
+**[Coding Bootcamp] — [University of California, Berkeley Extensions ]**  
+2020
 
+**[Masters in International Business] — [University of Florida]**
+2013 - 2015
+
+**[Bachelor's degree, Finance] — [University of Florida]**
+2010 - 2014
 ---
 
 ## 📌 Projects
@@ -66,18 +68,11 @@ Tech: [Tech Used]
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
-- 🌐 Website: [yourwebsite.com]
-- 💼 LinkedIn: [Link]
-- 🐦 Twitter / X: [Link]
-- 📧 Email: [Optional]
+- 🌐 Website: [davidanuson.com](davidanuson.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/anusontarangkul/](https://www.linkedin.com/in/anusontarangkul/)
+- 📧 Email: [anusontarangkul.d@gmail.com](anusontarangkul.d@gmail.com)
 
 ---
 
