@@ -32,7 +32,7 @@ Stripe · Clerk · Twilio · Sendgrid · Google
 
 ## 💼 Experience
 
-**[Software Engineer] — [Twilio]**  
+**Software Engineer — Twilio**  
 _[May 2022 – March 2024]_  
 
 **[Coding Learning Assistant] — [2U]**  
