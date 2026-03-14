@@ -66,6 +66,12 @@ Blog about self development, beauty, and fashion.
 
 [GitHub Repo](https://github.com/danusontarangkul/glowwithyna)
 
+### Portfolio
+
+Website to showcase my projects.
+
+[GitHub Repo](https://github.com/danusontarangkul/agency)
+
 
 
 ---
